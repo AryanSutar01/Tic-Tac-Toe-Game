@@ -42,7 +42,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name - sutararyan1304@gmail.com
+Email - sutararyan1304@gmail.com
 
 Project Link: [https://github.com/AryanSutar01/Tic-Tac-Toe-Game]
 
